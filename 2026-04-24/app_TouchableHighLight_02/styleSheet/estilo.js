@@ -1,0 +1,85 @@
+import { StyleSheet } from 'react-native';
+
+export const estilos = StyleSheet.create({
+  app: {
+    flex: 1,
+    backgroundColor: '#fff',
+    justifyContent: 'space-between',
+  },
+  cabecalho: {
+    alignItems: 'center',
+    marginTop: 32,
+    marginBottom: 18,
+    paddingHorizontal: 24,
+  },
+  cabecalhoTitulo: {
+    fontSize: 24,
+    color: '#111',
+    fontWeight: '700',
+    marginBottom: 16,
+    letterSpacing: 1,
+  },
+  cabecalhoImagem: {
+    width: '90%',
+    maxWidth: 320,
+    height: 170,
+    borderRadius: 18,
+    borderWidth: 1,
+    borderColor: '#d9d9d9',
+    backgroundColor: '#fff',
+  },
+  conteudo: {
+    flex: 1,
+    width: '100%',
+    paddingHorizontal: 24,
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+  titulo: {
+    fontSize: 32,
+    color: '#8b0000',
+    marginBottom: 24,
+    fontWeight: '700',
+  },
+  texto: {
+    fontSize: 15,
+    color: '#333',
+    textAlign: 'center',
+    lineHeight: 24,
+    marginBottom: 24,
+    maxWidth: 320,
+  },
+  botao: {
+    backgroundColor: '#8b0000',
+    paddingVertical: 16,
+    paddingHorizontal: 36,
+    borderRadius: 28,
+    marginBottom: 28,
+    minWidth: 220,
+    alignItems: 'center',
+  },
+  textoBotao: {
+    color: 'white',
+    fontWeight: '700',
+    letterSpacing: 1,
+  },
+  rodape: {
+    width: '100%',
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    paddingHorizontal: 24,
+    paddingVertical: 18,
+    borderTopWidth: 1,
+    borderColor: '#eee',
+  },
+  rodapeNome: {
+    fontSize: 16,
+    color: '#111',
+    fontWeight: '600',
+  },
+  rodapeData: {
+    fontSize: 14,
+    color: '#777',
+  },
+});
