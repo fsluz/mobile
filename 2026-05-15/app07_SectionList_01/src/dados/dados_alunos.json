@@ -1,0 +1,120 @@
+[
+  {
+    "title": "Análise e Desenvolvimento de Sistemas",
+    "data": [
+      {
+        "id": "1",
+        "nome": "Ana Clara Souza",
+        "cpf": "123.456.789-00",
+        "dataNascimento": "12/03/2002",
+        "anoIngresso": "2022"
+      },
+      {
+        "id": "2",
+        "nome": "Bruno Henrique Lima",
+        "cpf": "234.567.890-11",
+        "dataNascimento": "05/07/2001",
+        "anoIngresso": "2021"
+      },
+      {
+        "id": "3",
+        "nome": "Carla Menezes",
+        "cpf": "345.678.901-22",
+        "dataNascimento": "22/11/2003",
+        "anoIngresso": "2023"
+      },
+      {
+        "id": "4",
+        "nome": "Diego Ferreira",
+        "cpf": "456.789.012-33",
+        "dataNascimento": "14/01/2002",
+        "anoIngresso": "2022"
+      }
+    ]
+  },
+  {
+    "title": "Engenharia de Software",
+    "data": [
+      {
+        "id": "5",
+        "nome": "Eduardo Pinto",
+        "cpf": "567.890.123-44",
+        "dataNascimento": "30/06/2000",
+        "anoIngresso": "2020"
+      },
+      {
+        "id": "6",
+        "nome": "Fernanda Rocha",
+        "cpf": "678.901.234-55",
+        "dataNascimento": "08/09/2001",
+        "anoIngresso": "2021"
+      },
+      {
+        "id": "7",
+        "nome": "Gabriel Alves",
+        "cpf": "789.012.345-66",
+        "dataNascimento": "19/04/2003",
+        "anoIngresso": "2023"
+      }
+    ]
+  },
+  {
+    "title": "Ciência da Computação",
+    "data": [
+      {
+        "id": "8",
+        "nome": "Helena Martins",
+        "cpf": "890.123.456-77",
+        "dataNascimento": "02/02/1999",
+        "anoIngresso": "2019"
+      },
+      {
+        "id": "9",
+        "nome": "Igor Nascimento",
+        "cpf": "901.234.567-88",
+        "dataNascimento": "27/08/2001",
+        "anoIngresso": "2021"
+      },
+      {
+        "id": "10",
+        "nome": "Juliana Costa",
+        "cpf": "012.345.678-99",
+        "dataNascimento": "11/12/2002",
+        "anoIngresso": "2022"
+      },
+      {
+        "id": "11",
+        "nome": "Kevin Santos",
+        "cpf": "111.222.333-44",
+        "dataNascimento": "03/05/2000",
+        "anoIngresso": "2020"
+      }
+    ]
+  },
+  {
+    "title": "Sistemas de Informação",
+    "data": [
+      {
+        "id": "12",
+        "nome": "Larissa Oliveira",
+        "cpf": "222.333.444-55",
+        "dataNascimento": "17/10/2002",
+        "anoIngresso": "2022"
+      },
+      {
+        "id": "13",
+        "nome": "Mateus Carvalho",
+        "cpf": "333.444.555-66",
+        "dataNascimento": "24/03/2001",
+        "anoIngresso": "2021"
+      },
+      {
+        "id": "14",
+        "nome": "Natália Ramos",
+        "cpf": "444.555.666-77",
+        "dataNascimento": "09/07/2003",
+        "anoIngresso": "2023"
+      }
+    ]
+  }
+]

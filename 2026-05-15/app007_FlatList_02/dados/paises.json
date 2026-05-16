@@ -1,0 +1,110 @@
+[
+  {
+    "id": "1",
+    "nome": "Brasil",
+    "capital": "Brasília",
+    "populacao": "215 milhões",
+    "area": "8.515.767 km²",
+    "continente": "América do Sul",
+    "bandeira": "https://flagcdn.com/w160/br.png"
+  },
+  {
+    "id": "2",
+    "nome": "Argentina",
+    "capital": "Buenos Aires",
+    "populacao": "46 milhões",
+    "area": "2.780.400 km²",
+    "continente": "América do Sul",
+    "bandeira": "https://flagcdn.com/w160/ar.png"
+  },
+  {
+    "id": "3",
+    "nome": "Chile",
+    "capital": "Santiago",
+    "populacao": "19 milhões",
+    "area": "756.102 km²",
+    "continente": "América do Sul",
+    "bandeira": "https://flagcdn.com/w160/cl.png"
+  },
+  {
+    "id": "4",
+    "nome": "Colômbia",
+    "capital": "Bogotá",
+    "populacao": "51 milhões",
+    "area": "1.141.748 km²",
+    "continente": "América do Sul",
+    "bandeira": "https://flagcdn.com/w160/co.png"
+  },
+  {
+    "id": "5",
+    "nome": "Peru",
+    "capital": "Lima",
+    "populacao": "33 milhões",
+    "area": "1.285.216 km²",
+    "continente": "América do Sul",
+    "bandeira": "https://flagcdn.com/w160/pe.png"
+  },
+  {
+    "id": "6",
+    "nome": "Venezuela",
+    "capital": "Caracas",
+    "populacao": "29 milhões",
+    "area": "916.445 km²",
+    "continente": "América do Sul",
+    "bandeira": "https://flagcdn.com/w160/ve.png"
+  },
+  {
+    "id": "7",
+    "nome": "Equador",
+    "capital": "Quito",
+    "populacao": "18 milhões",
+    "area": "283.561 km²",
+    "continente": "América do Sul",
+    "bandeira": "https://flagcdn.com/w160/ec.png"
+  },
+  {
+    "id": "8",
+    "nome": "Bolívia",
+    "capital": "Sucre",
+    "populacao": "12 milhões",
+    "area": "1.098.581 km²",
+    "continente": "América do Sul",
+    "bandeira": "https://flagcdn.com/w160/bo.png"
+  },
+  {
+    "id": "9",
+    "nome": "Paraguai",
+    "capital": "Assunção",
+    "populacao": "7 milhões",
+    "area": "406.752 km²",
+    "continente": "América do Sul",
+    "bandeira": "https://flagcdn.com/w160/py.png"
+  },
+  {
+    "id": "10",
+    "nome": "Uruguai",
+    "capital": "Montevidéu",
+    "populacao": "3,5 milhões",
+    "area": "176.215 km²",
+    "continente": "América do Sul",
+    "bandeira": "https://flagcdn.com/w160/uy.png"
+  },
+  {
+    "id": "11",
+    "nome": "México",
+    "capital": "Cidade do México",
+    "populacao": "130 milhões",
+    "area": "1.964.375 km²",
+    "continente": "América do Norte",
+    "bandeira": "https://flagcdn.com/w160/mx.png"
+  },
+  {
+    "id": "12",
+    "nome": "Cuba",
+    "capital": "Havana",
+    "populacao": "11 milhões",
+    "area": "109.884 km²",
+    "continente": "América Central",
+    "bandeira": "https://flagcdn.com/w160/cu.png"
+  }
+]
