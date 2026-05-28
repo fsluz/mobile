@@ -1,0 +1,29 @@
+{"_e":"root:init","_t":1780003712063,"format":"v0-jsonl","version":"56.1.10"}
+{"_e":"env:mode","_t":1780003712064,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1780003712067,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1780003712297,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1780003713123,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:instantiate","_t":1780003718827,"atlas":false,"workers":8,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1780003719159,"id":"1","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1780003719160,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780003719162,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780003719262,"id":"1","progress":0.59820556640625,"total":128,"current":99}
+{"_e":"metro:bundling:progress","_t":1780003719379,"id":"1","progress":0.9888580256546299,"total":179,"current":178}
+{"_e":"metro:bundling:progress","_t":1780003719796,"id":"1","progress":0.999,"total":179,"current":179}
+{"_e":"metro:bundling:progress","_t":1780003719896,"id":"1","progress":0.999,"total":254,"current":203}
+{"_e":"metro:bundling:progress","_t":1780003719996,"id":"1","progress":0.999,"total":376,"current":316}
+{"_e":"metro:bundling:progress","_t":1780003720096,"id":"1","progress":0.999,"total":450,"current":422}
+{"_e":"metro:bundling:progress","_t":1780003720200,"id":"1","progress":0.999,"total":483,"current":480}
+{"_e":"metro:bundling:progress","_t":1780003720670,"id":"1","progress":0.999,"total":483,"current":481}
+{"_e":"metro:bundling:failed","_t":1780003720695,"id":"1","message":"Unable to resolve \"../../assets/solar.webp\" from \"src\\Telas\\HomeScreen.js\"\n  10 |\n  11 |       <Image\n> 12 |         source={require('../../assets/solar.webp')}\n     |                          ^\n  13 |         style={styles.image}\n  14 |       />\n  15 |","importStack":"\u001b[1mImport stack:\u001b[22m\n\n\u001b[90m \u001b[39msrc\\Telas\\HomeScreen.js\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"../../assets/solar.webp\"\u001b[39m\n\n\u001b[90m \u001b[39mApp.js\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./src/Telas/HomeScreen\"\u001b[39m\n\n\u001b[90m \u001b[39mindex.js\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./App\"\u001b[39m\n\n\u001b[90m \u001b[39m\n\u001b[90m |\u001b[39m \u001b[36mimport\u001b[39m \u001b[32m\"./index\"\u001b[39m\n","filename":null,"targetModuleName":"../../assets/solar.webp","originModulePath":"src\\Telas\\HomeScreen.js"}
+{"_e":"metro:bundling:started","_t":1780003832700,"id":"3","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1780003832701,"id":"3","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780003832702,"id":"3","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1780003832803,"id":"3","progress":0.2909200818401637,"total":254,"current":137}
+{"_e":"metro:bundling:progress","_t":1780003832903,"id":"3","progress":0.740400216333153,"total":387,"current":333}
+{"_e":"metro:bundling:progress","_t":1780003833015,"id":"3","progress":0.999,"total":488,"current":488}
+{"_e":"metro:bundling:done","_t":1780003833044,"id":"3","total":488,"ms":343.1805}
+{"_e":"metro:client_log","_t":1780003833185,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1780003833185,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1780003833185,"level":"warn","data":["props.pointerEvents is deprecated. Use style.pointerEvents"]}
+{"_e":"metro:client_log","_t":1780003833185,"level":"warn","data":["Image: style.resizeMode is deprecated. Please use props.resizeMode."]}
